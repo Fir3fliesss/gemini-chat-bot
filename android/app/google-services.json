@@ -1,37 +1,37 @@
 {
   "project_info": {
-    "project_number": "212640563016",
-    "project_id": "gemini-chat-bot-ad296",
-    "storage_bucket": "gemini-chat-bot-ad296.appspot.com"
+    "project_number": "454701319826",
+    "project_id": "gemini-chat-bot-3505c",
+    "storage_bucket": "gemini-chat-bot-3505c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:212640563016:android:d48810093ff1a32667bd7d",
+        "mobilesdk_app_id": "1:454701319826:android:ed6abf609fb7823847c84b",
         "android_client_info": {
           "package_name": "com.example.gemini_chat_bot"
         }
       },
       "oauth_client": [
         {
-          "client_id": "212640563016-vh3qm1vhve15opdm70bbmq1vlk9f0891.apps.googleusercontent.com",
+          "client_id": "454701319826-alop0k25tk2rsrm0s437funaf7h18ddk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBi3MELT3u4yY14uTVCYO1vDpm9PkLX_-g"
+          "current_key": "AIzaSyAgXUJyHzOO0u4Nnz_Vm6XIUCz6BR-avns"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "212640563016-vh3qm1vhve15opdm70bbmq1vlk9f0891.apps.googleusercontent.com",
+              "client_id": "454701319826-alop0k25tk2rsrm0s437funaf7h18ddk.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "212640563016-eledg19b7lchhlsvmatjskntg52c2aeg.apps.googleusercontent.com",
+              "client_id": "454701319826-qt276bffvfpapl7m5lf1bvh7rd8kud97.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.geminiChatBot"

@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBi3MELT3u4yY14uTVCYO1vDpm9PkLX_-g',
-    appId: '1:212640563016:android:d48810093ff1a32667bd7d',
-    messagingSenderId: '212640563016',
-    projectId: 'gemini-chat-bot-ad296',
-    storageBucket: 'gemini-chat-bot-ad296.appspot.com',
+    apiKey: 'AIzaSyAgXUJyHzOO0u4Nnz_Vm6XIUCz6BR-avns',
+    appId: '1:454701319826:android:ed6abf609fb7823847c84b',
+    messagingSenderId: '454701319826',
+    projectId: 'gemini-chat-bot-3505c',
+    storageBucket: 'gemini-chat-bot-3505c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDfBIF9q3SnsBMJ_uFHcCMDa1_7F8aseVM',
-    appId: '1:212640563016:ios:6866e72489678a3567bd7d',
-    messagingSenderId: '212640563016',
-    projectId: 'gemini-chat-bot-ad296',
-    storageBucket: 'gemini-chat-bot-ad296.appspot.com',
+    apiKey: 'AIzaSyAeZrByPzYAX9lsl9Suq6HBwwrnrHg0I1k',
+    appId: '1:454701319826:ios:99b4d37a6892704447c84b',
+    messagingSenderId: '454701319826',
+    projectId: 'gemini-chat-bot-3505c',
+    storageBucket: 'gemini-chat-bot-3505c.appspot.com',
     iosBundleId: 'com.example.geminiChatBot',
   );
+
 }
